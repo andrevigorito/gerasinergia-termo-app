@@ -10,12 +10,12 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Política de Privacidade do Sistema WebCOL da Gera Sinergia" style = {{ marginLeft: 100 }} />
+        <Header title="Política de Privacidade do Sistema WebCOL da Gera Sinergia" />
         <p className="description">
           A privacidade dos usuários é uma prioridade para a Gera Sinergia. Esta Política de Privacidade descreve como as informações pessoais dos usuários são coletadas, usadas e compartilhadas quando se utiliza o Sistema WebCOL da Gera Sinergia.
         </p>
         <p className="description">
-          Informações Coletadas <br />
+          <h2>Informações Coletadas</h2>
           O Sistema WebCOL da Gera Sinergia coleta informações pessoais dos usuários, incluindo nome, endereço de e-mail e informações de contato. Também coletamos informações sobre o uso do sistema, incluindo logs de acesso e outras informações de uso.
         </p>
         <p className="description">
